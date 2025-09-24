@@ -6,7 +6,6 @@ import ModelViewer from "./components/PotreeViewer3";
 function App() {
   return (
     <div style={{ height: "100vh" }}>
-      hihi
       <ModelViewer />
     </div>
   );
